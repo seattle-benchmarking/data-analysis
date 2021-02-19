@@ -30,8 +30,8 @@ year,fuel,kBtu
 2018,steam kBtu,600459815
 2019,steam kBtu,585402977
 2014,steam_kBtu_wn,635055534
-2015,gas kBtu,617437340
-2016,gas kBtu,619116631
-2017,gas kBtu,631815131
-2018,gas kBtu,589326868
-2019,gas kBtu,588176795
+2015,steam_kBtu_wn,617437340
+2016,steam_kBtu_wn,619116631
+2017,steam_kBtu_wn,631815131
+2018,steam_kBtu_wn,589326868
+2019,steam_kBtu_wn,588176795
